@@ -1,1 +1,6 @@
 # HR-Dashboard
+The goal of the Tableau-based HR Analytics Dashboard project is to shed light on important KPIs and emerging patterns in an organization's approach to human resource management. To assist HR professionals in finding patterns and making data-driven decisions, the dashboard makes use of visuals and data analysis methodologies. Employee turnover rate, headcount, and employee engagement levels are just a few of the HR-related variables that are comprehensively outlined in the dashboard's primary visualizations. Time-to-fill and cost-per-hire indicators are among the recruitment-related data included in the dashboard.
+The dashboard also offers information on employee performance, including measures for career advancement, performance reviews, and training and development. These indicators can be used by HR experts to pinpoint problem areas and create plans for raising employee engagement and productivity.
+Additionally, the dashboard has interactive elements that let users filter and go deeper into particular data sets, like those by department, geography, or job level. This gives HR professionals a more in-depth view of their data, making it simpler for them to spot patterns and trends.
+To view the Tableau Dashboard ,visit my profile
+https://public.tableau.com/app/profile/akshat.nachhola/viz/Dashboard1_16823134775340/HRANALYTICSDASHBOARD
